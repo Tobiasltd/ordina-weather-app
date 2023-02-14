@@ -1,1 +1,0 @@
-# ordina-weather-app
