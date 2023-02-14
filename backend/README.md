@@ -2,7 +2,7 @@
 
 ## 1.1 Project Overview
 
-The Ordina Weather App is a project created as part of the interview process to showcase the developer's skills. The project has limited features and its main objective is to retrieve data from the open weather map API.
+The Ordina Weather App Backend is a project created as part of the interview process to showcase the developer's skills. The project has limited features and its main objective is to retrieve data from the open weather map API.
 
 The project is built using Nestjs and TypeScript technologies. The project also makes use of one external API, which is the openweathermap API.
 
@@ -126,8 +126,10 @@ Quality assurance is a critical aspect of software development and the Ordina We
 
 The project has a comprehensive test suite that covers all the main functionality of the app, including the controllers and services.
 
-- TO DO: E2E Tests
-- Automate tests with prehook
+TO DO:
+
+- E2E Tests
+- Automate tests with precommit hook
 
 ## 5.3 Tools and Frameworks
 
@@ -141,6 +143,6 @@ The following tools and frameworks are used for testing and quality assurance in
 
 The project follows a set of coding standards and best practices to ensure that the code is maintainable and easy to read. The code is linted using the popular ESLint library to ensure that it conforms to the project's coding standards.
 
-TODO:
+TO DO:
 
-- Automate linting with prehook
+- Automate linting with precommit hook
